@@ -94,8 +94,12 @@ I'm excited to connect with fellow developers, enthusiasts, and creators. Feel f
      
 .   ✉️  You can contact me at [abhishek.as663@gmail.com](mailto:abhishek.as663@gmail.com)
 
-.   🧠  I'm learning Backend<a href="https://www.github.com/AbhishekSoni663" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/AbhishekSoni663?logo=github&style=for-the-badge&color=84cc16&labelColor=181824" /></a>### Skills 
+.   🧠  I'm learning Backend
+
+<a href="https://www.github.com/AbhishekSoni663" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/AbhishekSoni663?logo=github&style=for-the-badge&color=84cc16&labelColor=181824" /></a>
+                  
+               
 
 ### Skills
 
